@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<artifactId>atjstestrunner-junit</artifactId>
+	<artifactId>attester-junit</artifactId>
 	<packaging>jar</packaging>
-	<groupId>com.ariatemplates.atjstestrunner</groupId>
+	<groupId>com.ariatemplates.attester</groupId>
 	<version>1.0-SNAPSHOT</version>
 	<name>Aria Templates Javascript Test Runner JUnit bridge</name>
 	<properties>
@@ -27,6 +27,6 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<connection>scm:git:https://github.com/ariatemplates/atjstestrunner-junit.git</connection>
+		<connection>scm:git:https://github.com/ariatemplates/attester-junit.git</connection>
 	</scm>
 </project>
